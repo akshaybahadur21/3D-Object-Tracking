@@ -6,7 +6,7 @@ A simple 3D Object Tracking module for humans
 ## Code Requirements 🦄
 You can install Conda for python which resolves all the dependencies for machine learning.
 
-##### pip install requirements.txt
+`pip install requirements.txt`
 
 ## Description 👟
 This module is a mobile real-time 3D object detection solution for everyday objects. It detects objects in 2D images, and estimates their poses through a machine learning (ML) model, trained on the Objectron dataset.
