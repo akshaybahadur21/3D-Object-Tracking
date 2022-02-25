@@ -37,7 +37,7 @@ python3 Objectron.py
 
 ## Results 📊
 
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/final.gif">
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/obj.gif">
 
 ## References 🔱
  
