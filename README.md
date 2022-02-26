@@ -42,9 +42,11 @@ python3 Objectron.py
 ## Similar Work 
 [A Streamlit based Webapp showcasing 3D Object Tracking using Objectron](https://github.com/prateekralhan/Streamlit-based-3D-Object-Tracker-using-Objectron)
 
-| Images | Live Webcam Feed |
-| ------ | ---------------- |
-|![](https://user-images.githubusercontent.com/29462447/155856376-464e6f70-ce7a-4c05-ab21-4ac52c072b18.gif) | ![](https://user-images.githubusercontent.com/29462447/155856202-7e1e7896-1051-40bb-8b89-7b7293d0ca8c.gif) |
+##### Images 📸✅
+![](https://user-images.githubusercontent.com/29462447/155856376-464e6f70-ce7a-4c05-ab21-4ac52c072b18.gif)
+
+##### Live Webcam Feed 📽✅
+![](https://user-images.githubusercontent.com/29462447/155856202-7e1e7896-1051-40bb-8b89-7b7293d0ca8c.gif)
 
 ## References 🔱
  
