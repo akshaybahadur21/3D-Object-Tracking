@@ -39,6 +39,15 @@ python3 Objectron.py
 
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/obj.gif">
 
+## Similar Work 
+[A Streamlit based Webapp showcasing 3D Object Tracking using Objectron](https://github.com/prateekralhan/Streamlit-based-3D-Object-Tracker-using-Objectron)
+
+##### Images 📸✅
+![](https://user-images.githubusercontent.com/29462447/155856376-464e6f70-ce7a-4c05-ab21-4ac52c072b18.gif)
+
+##### Live Webcam Feed 📽✅
+![](https://user-images.githubusercontent.com/29462447/155856202-7e1e7896-1051-40bb-8b89-7b7293d0ca8c.gif)
+
 ## References 🔱
  
  -  Ivan Grishchenko and Valentin Bazarevsky, Research Engineers, Google Research. [Mediapipe by Google](https://github.com/google/mediapipe)
